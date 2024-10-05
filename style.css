@@ -123,6 +123,7 @@ body{
     padding-top: 10px;
     padding-left: 405px;
     padding-right: 360px;
+    text-align: center;
     
 }
 
@@ -330,5 +331,107 @@ font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubun
 }
 
 
-/* Body con */
+/* Body content 9 */
+
+#Body9{
+   display: flex;
+   justify-content: space-between;
+   padding-top: 120px;
+}
+
+
+#Body91{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    color: #9ba3b4;
+    font-size: medium;
+    line-height: 25px;
+    margin-left: 130px;
+    padding-right: 80px;
+}
+.Body91A{
+    color: #0078d4;
+}
+#Body91H{
+    font-size: 32px;
+    color: white;
+    
+}
+
+#Body92{
+
+margin-right: 130px;
+}
+
+#Body92Img{
+    padding-top: 24px;
+    height: 450px;
+}
+
+
+/* Body content 10 */
+
+#Body10{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+ }
+ 
+ 
+ #Body101{
+     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+     color: #9ba3b4;
+     font-size: medium;
+     line-height: 25px;
+     margin-left: 130px;
+     padding-right: 90px;
+ }
+ .Body101A{
+     color: #0078d4;
+ }
+ #Body101H{
+     font-size: 32px;
+     color: white;
+     
+ }
+ 
+ #Body102{
+ 
+ margin-right: 130px;
+ }
+ 
+ #Body102Img{
+     padding-top: 24px;
+     height: 480px;
+ }
+
+
+ /* Body content 11 */
+
+ #Body11{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+     color: white;
+     font-size: 30px;
+     display: flex;
+     justify-content: center;
+     padding-top: 130px;
+ }
+
+ /* Body content 12 */
+
+ #Body12{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+     color: #9ba3b4;
+     /* width: 500px; */
+     font-size: medium;
+     display: flex;
+     justify-content: center;
+     padding-top: 20px;
+     padding-left: 500px;
+     padding-right: 500px;
+     text-align: center;
+    
+     
+
+ }
+
 
