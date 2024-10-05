@@ -2,3 +2,84 @@ body{
     background-color:#0D1117 ;
     color: white;
 }
+
+
+
+/* Navbar CSS */
+
+#MainNav{
+    
+    padding-left: 140px;
+    display: flex;
+    padding-right: 140px;
+    justify-content: space-between;
+}
+
+#ImageSpan{
+    height: 35px;
+    padding-top: 0px;
+}
+
+#Nav1{
+      padding-bottom: 10px;
+      cursor: pointer;
+}
+
+.Navii:hover{
+    color: white;
+}
+
+#Nav2{
+   padding-top: 10px;
+   
+}
+
+.Navi{
+    padding-left: 20px;
+    font-size: medium;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+.Navii{
+    color:#9ba3b4;
+}
+
+#VS{
+    font-size: x-large;
+    padding-left: 5px;
+}
+
+#DownloadButton{
+    font-size: medium;
+    padding: 6px 16px;
+    background-color: #0078d4;
+    color: white;
+    border-color: #0D1117;
+    border-width: 1px;
+    border-radius: 7px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    
+}
+#SearchInput{
+    font-size: medium;
+    background-color: #0D1117;
+    color: #9ba3b4;
+    padding: 6px 16px;
+    padding-right: 0;
+    padding-left: 40px;
+    border-color: #9ba3b4;
+    border-width: 0.5px;
+    border-radius: 7px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+#BrightImage{
+    padding-right: 5px;
+    padding-top: 5px;
+}
+
+
+
+/* Navbar CSS Ends  */
+
+
