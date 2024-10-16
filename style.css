@@ -1,6 +1,7 @@
 body{
     background-color:#0D1117 ;
     color: white;
+    
 }
 
 
@@ -13,6 +14,9 @@ body{
     display: flex;
     padding-right: 140px;
     justify-content: space-between;
+    
+    
+    
 }
 
 #ImageSpan{
@@ -94,6 +98,7 @@ body{
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
     display: flex;
     justify-content: center;
+    /* position: relative; */
 
 }
 
